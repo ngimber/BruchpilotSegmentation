@@ -2,7 +2,7 @@
 
 This ImageJ macro was specifically written to automate the segmentation of mature and immature active zone (AZ) nanostructures. It was developed for the paper by Lützkendorf et al., 2024. [DOI: https://doi.org/#####](https://doi.org/#####). Radial intensity profiles around AZs and many other measurements are exported after segmentation. 
 
-![Fig.1: Example of Detected Active Zones]([https://github.com/ngimber/BruchpilotSegmentation/blob/main/detected_active_zones.PNG](https://github.com/ngimber/BruchpilotSegmentation/blob/main/detected_active_zones.png))
+![Fig.1: Example of Detected Active Zones]([https://github.com/ngimber/BruchpilotSegmentation/blob/main/detected_active_zones.PNG](https://github.com/ngimber/BruchpilotSegmentation/blob/main/detected_active_zones.png)
 ---
 
 ## Overview
