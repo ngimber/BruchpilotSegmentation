@@ -68,3 +68,5 @@ This macro allows for the characterization of AZ shape in high-resolution images
 5. **Run Segmentation**: Press `OK` to execute the segmentation algorithm.
 
 For further details, please refer to the [original publication](https://doi.org/#####).
+
+![Alt Text for the Image](https://github.com/ngimber/BruchpilotSegmentation/blob/main/GUI.PNG)
