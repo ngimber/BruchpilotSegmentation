@@ -1,4 +1,4 @@
-# Bruchpilot Segmentation
+# Active Zone Segmenter
 
 This ImageJ macro was specifically written to automate the segmentation of mature and immature active zone (AZ) nanostructures. It was developed for the paper by Lützkendorf et al., 2024. [DOI: https://doi.org/#####](https://doi.org/#####). Radial intensity profiles around AZs and many other measurements are exported after segmentation. 
 ---
